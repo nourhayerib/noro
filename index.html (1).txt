@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+
+<html lang="ar">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>موقعي الشخصي</title>
+
+<style>
+
+body {
+
+font-family: "Tahoma", Arial, sans-serif;
+
+background: #f2f2f2;
+
+margin: 0;
+
+padding: 0;
+
+text-align: center;
+
+}
+
+header {
+
+background: #4CAF50;
+
+color: white;
+
+padding: 30px 10px;
+
+}
+
+header h1 {
+
+margin: 0;
+
+font-size: 2.5em;
+
+}
+
+header p {
+
+font-size: 1.2em;
+
+}
+
+section {
+
+padding: 40px 20px;
+
+}
+
+.card {
+
+background: white;
+
+padding: 20px;
+
+margin: 20px auto;
+
+max-width: 600px;
+
+border-radius: 10px;
+
+box-shadow: 0 0 10px rgba(0,0,0,0.1);
+
+}
+
+footer {
+
+background: #333;
+
+color: white;
+
+padding: 15px;
+
+margin-top: 20px;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>مرحباً بكم في موقعي</h1>
+
+<p>أنا فلان الفلاني – مطور ويب</p>
+
+</header>
+
+ 
+
+<section>
+
+<div class="card">
+
+<h2>من أنا؟</h2>
+
+<p>أنا مطور ويب أحب البرمجة وتصميم المواقع، وأعمل على مشاريع بسيطة ومفيدة.</p>
+
+</div>
+
+ 
+
+<div class="card">
+
+<h2>خدماتي</h2>
+
+<ul>
+
+<li>تصميم مواقع شخصية</li>
+
+<li>إنشاء مدونات</li>
+
+<li>برمجة واجهات بسيطة</li>
+
+</ul>
+
+</div>
+
+ 
+
+<div class="card">
+
+<h2>تواصل معي</h2>
+
+<p>البريد الإلكتروني: example@email.com</p>
+
+</div>
+
+</section>
+
+ 
+
+<footer>
+
+<p>© 2025 جميع الحقوق محفوظة</p>
+
+</footer>
+
+</body>
+
+</html>
